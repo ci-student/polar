@@ -1,0 +1,49 @@
+Skill,Frequency,Job
+ML Ops,50,Data Engineer
+Data Pipelines,100,Data Engineer
+Databases,100,Data Engineer
+Data Tools,100,Data Engineer
+Storytelling,7,Data Engineer
+Data Visualisation,7,Data Engineer
+Business Insights,7,Data Engineer
+Metrics and Reporting,10,Data Engineer
+Experimentation,5,Data Engineer
+Inference,5,Data Engineer
+Statistics & ML Modelling,5,Data Engineer
+Model Deployment,10,Data Engineer
+ML Ops,2,Data Analyst
+Data Pipelines,2,Data Analyst
+Databases,2,Data Analyst
+Data Tools,2,Data Analyst
+Storytelling,100,Data Analyst
+Data Visualisation,100,Data Analyst
+Business Insights,100,Data Analyst
+Metrics and Reporting,100,Data Analyst
+Experimentation,75,Data Analyst
+Inference,30,Data Analyst
+Statistics & ML Modelling,25,Data Analyst
+Model Deployment,2,Data Analyst
+ML Ops,25,Data Scientist
+Data Pipelines,15,Data Scientist
+Databases,5,Data Scientist
+Data Tools,5,Data Scientist
+Storytelling,15,Data Scientist
+Data Visualisation,20,Data Scientist
+Business Insights,30,Data Scientist
+Metrics and Reporting,50,Data Scientist
+Experimentation,80,Data Scientist
+Inference,100,Data Scientist
+Statistics & ML Modelling,100,Data Scientist
+Model Deployment,30,Data Scientist
+ML Ops,100,ML Engineer
+Data Pipelines,50,ML Engineer
+Databases,10,ML Engineer
+Data Tools,5,ML Engineer
+Storytelling,7,ML Engineer
+Data Visualisation,7,ML Engineer
+Business Insights,7,ML Engineer
+Metrics and Reporting,10,ML Engineer
+Experimentation,25,ML Engineer
+Inference,50,ML Engineer
+Statistics & ML Modelling,75,ML Engineer
+Model Deployment,100,ML Engineer
